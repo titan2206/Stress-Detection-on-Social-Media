@@ -8,6 +8,7 @@ Data Cleaning and Preprocessing: Custom functions are used to clean text data, r
 Feature Extraction: Utilizes CountVectorizer to transform text into feature vectors for model training.
 Modeling: Implements the Naive Bayes algorithm (specifically, BernoulliNB) to classify text as either stressed or non-stressed.
 Evaluation: The model is trained and evaluated on a split dataset to ensure reliable performance.
+
 Technologies Used
 Programming Language: Python
 Libraries:
